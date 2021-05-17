@@ -26,3 +26,4 @@ itr = iter(r)
 
 print(next(itr))
 print(next(itr))
+print(next(itr))
